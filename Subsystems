@@ -1,6 +1,13 @@
 Flight Controller
+  How many serial ports?
+  At least 3, radio receiver, digital fpv, and gps/telemetry
+  How many I2C ports?
+  Hardware output for motors?
+
+  Info source: https://www.youtube.com/watch?v=xSOaeSd1AlM
 
 Firmware and Software
+  INAV, ArduPilot, or Betaflight
 
 Electronic Speed Controller
 
