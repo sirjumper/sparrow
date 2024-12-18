@@ -1,0 +1,6 @@
+System Requirements for Project Sparrow
+
+The Sparrow System is a drone flight system that will be able to take flight and navigation commands from a flight planner (not a radio controller or manual flight). It will be able to navigate via GPS positioning and complete a pre-defined flight plan
+The Sparrow System shall support manual flight mode with FPV video feed
+The Sparrow System shall have a minimum flight time of 20 minutes
+The Sparrow System shall comply with FAA regulations on drone usage
